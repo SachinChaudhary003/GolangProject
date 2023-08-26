@@ -15,7 +15,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const mongoconn = "mongodb+srv://Godb:Golang123@cluster0.0r5zajl.mongodb.net/"
+const mongoconn = "mongodb+srv://Godb:password@cluster0.0r5zajl.mongodb.net/"
 const dbName = "netflix"
 const colName = "watchlist"
 
